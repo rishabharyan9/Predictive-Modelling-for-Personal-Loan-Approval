@@ -49,9 +49,13 @@ The main objective of this project is to build a predictive model that can accur
 # Project Structure
 
 Data Exploration: Exploratory Data Analysis (EDA) notebooks/scripts to understand the characteristics of the dataset and relationships between variables.
+
 Data Preprocessing: Data cleaning, feature engineering, and preprocessing steps to prepare the data for modelling.
+
 Model Development: Building and training predictive models using machine learning algorithms such as logistic regression, decision trees, random forests, etc.
+
 Model Evaluation: Evaluation of model performance using appropriate metrics and techniques such as cross-validation, ROC curves, and confusion matrices.
+
 Deployment: Deployment of the final trained model for inference on new data.
 
 
