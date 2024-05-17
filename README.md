@@ -1,12 +1,12 @@
 # Predictive-Modelling-for-Personal-Loan-Approval
 Predictive model for personal loan approval using demographic &amp; banking data. Empowering financial institutions with data-driven decision-making.
 
-Overview
+# Overview
 
 
 This repository contains a predictive modelling project aimed at predicting whether individuals will take a personal loan based on various demographic and banking-related attributes. The dataset used for this project includes information about customers, such as their age, income, family size, education level, and banking behavior.
 
-Dataset
+# Dataset
 
 The dataset used in this project consists of tabular data with the following columns:
 
@@ -40,13 +40,13 @@ CreditCard: Whether the individual has a credit card (1: Yes, 0: No)
 
 
 
-Objective
+# Objective
 
 The main objective of this project is to build a predictive model that can accurately predict whether an individual will take a personal loan. By leveraging machine learning techniques, we aim to identify the key factors that influence a person's decision to take a loan and provide insights that can help financial institutions in targeted marketing campaigns and risk assessment.
 
 
 
-Project Structure
+# Project Structure
 
 Data Exploration: Exploratory Data Analysis (EDA) notebooks/scripts to understand the characteristics of the dataset and relationships between variables.
 Data Preprocessing: Data cleaning, feature engineering, and preprocessing steps to prepare the data for modelling.
@@ -56,8 +56,7 @@ Deployment: Deployment of the final trained model for inference on new data.
 
 
 
-Dependencies
-
+# Dependencies
 
 Python 3.x
 
@@ -75,10 +74,12 @@ Seaborn
 
 
 
-Usage
-
+# Usage
 
 Clone the repository to your local machine.
+
 Navigate to the project directory.
+
 Install the dependencies listed in the requirements.txt file using pip.
+
 Run the Jupyter notebooks or Python scripts in the respective directories to reproduce the analysis and results.
